@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/filterByCountry"
+          android:title="Filter by Country"/>
+    <item android:id="@+id/filterByRocket"
+        android:title="Filter by Rocket"/>
+    <item android:id="@+id/filterByPurpose"
+        android:title="Filter by Purpose"/>
+    <item android:id="@+id/filterByTime"
+        android:title="Filter by Time"/>
+    <item android:id="@+id/about"
+          android:title="About Us"/>
+</menu>
